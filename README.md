@@ -1,5 +1,4 @@
-# DAPPWC
-## Data Analysis and Presentation Skills: the PwC Approach Specialization
+# Data Analysis and Presentation Skills: the PwC Approach
 ### About this Specialization
 
 
