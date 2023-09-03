@@ -1,0 +1,27 @@
+﻿AirportID,AirportName,Gates (number of available)
+ATL,Hartsfield-Jackson Atlanta International,100
+LAX,Los Angeles International,86
+ORD,Chicago O'Hare International,110
+DFW,Dallas/Fort Worth International,130
+JFK,John F Kennedy International,120
+DEN,Denver International,75
+SFO,San Francisco International,70
+CLT,Charlotte/Douglas International,65
+LAS,McCarran International,68
+PHX,Phoenix Sky Harbor International,60
+IAH,George Bush Intercontinental/Houston,80
+MIA,Miami International,80
+SEA,Seattle-Tacoma International,58
+EWR,Newark Liberty International,82
+MCO,Orlando International,67
+MSP,Minneapolis-St Paul International/Wold-Chamberlain,65
+DTW,Detroit Metropolitan Wayne County,60
+BOS,General Edward Lawrence Logan International,63
+PHL,Philadelphia International,89
+LGA,Laguardia,66
+FLL,Fort Lauderdale/Hollywood International,55
+BWI,Baltimore/Washington International Thurgood Marshall,58
+IAD,Washington Dulles International,95
+MDW,Chicago Midway International,56
+SLC,Salt Lake City International,54
+DCA,Ronald Reagan Washington National Airport,45
